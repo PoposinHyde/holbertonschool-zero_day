@@ -1,0 +1,1 @@
+This proyect is about some basics and commands of the Emacs text editor. :)
